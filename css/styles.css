@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#t {
+
+}
+
+#y {
+    animation-delay: .5s;
+}
+
+#p {
+    animation-delay: 1s;
+}
+
+#e {
+    animation-delay: 1.5s;
+}
+
+#name {
+    animation-delay: 2s;
+}
+
+#prod {
+    animation-delay: 2.5s;
+}
